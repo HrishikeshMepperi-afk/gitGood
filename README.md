@@ -1,1 +1,1 @@
-This truly is just for understanding how to use git in the most efficient way possible
+This truly is just for understanding how to use git
